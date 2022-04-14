@@ -1,0 +1,3 @@
+[submodule "Server/iso-profiles"]
+	path = Server/iso-profiles
+	url = https://gitlab.manjaro.org/profiles-and-settings/iso-profiles.git
